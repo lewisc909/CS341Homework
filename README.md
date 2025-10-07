@@ -1,1 +1,1 @@
-# HW
+# Homework assignments for CS341 
